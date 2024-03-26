@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDnNirtVUh0CaTo0k0Vz8fI4t9LKN_irjk',
+    apiKey: '',
     appId: '1:369525553537:web:11328971b0c424991f5080',
     messagingSenderId: '369525553537',
     projectId: 'cp-fitness-f1a68',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC73NzDx_pQO-foRJTBnmMa3Ut7uxIyR4s',
+    apiKey: '',
     appId: '1:369525553537:android:d53fd04ae8474d811f5080',
     messagingSenderId: '369525553537',
     projectId: 'cp-fitness-f1a68',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBgf1pQM_90FWCWN15VXdERiaX4hPtIzTA',
+    apiKey: '',
     appId: '1:369525553537:ios:d2fe7207c6914e4a1f5080',
     messagingSenderId: '369525553537',
     projectId: 'cp-fitness-f1a68',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBgf1pQM_90FWCWN15VXdERiaX4hPtIzTA',
+    apiKey: '',
     appId: '1:369525553537:ios:9714719b6eedb2941f5080',
     messagingSenderId: '369525553537',
     projectId: 'cp-fitness-f1a68',
