@@ -11,6 +11,14 @@ __Crush Workouts:__ Choose guided routines or create your own, track performance
 __Be Your Best:__ This tracker empowers your total wellness journey, one step at a time<br>
 
 ## 🤩 Designs:
+<div style = ""> 
+<img src="https://github.com/MehulVariya/Track2Fit/blob/main/images/1.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/Track2Fit/blob/main/images/3.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/Track2Fit/blob/main/images/4.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/Track2Fit/blob/main/images/5.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/Track2Fit/blob/main/images/6.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/Track2Fit/blob/main/images/7.jpg" width="32%"/>
+</div>
 
 
 ## 📱 Technologies / Tools used for building this app includes:
